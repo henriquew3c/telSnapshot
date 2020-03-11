@@ -8,4 +8,4 @@ O Sistema é composto de uma tela principal, onde o usuário poderá visualizar 
 
 Segue uma foto da home da aplicação:
 
-<img src="https://www.behance.net/honoriohenrique/workinprogress/1527387"/>
+<img width="680" alt="telsnapshot" src="https://user-images.githubusercontent.com/11899400/76423092-07bf5000-6385-11ea-9588-f867f0cc080a.png">
